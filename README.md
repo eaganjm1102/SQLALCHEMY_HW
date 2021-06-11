@@ -1,5 +1,5 @@
 # SQLALCHEMY_HW
-### Before You Begin
+John Eagan
 
 1. Create a new repository for this project called `sqlalchemy-challenge`. **Do not add this homework to an existing repository**.
 
